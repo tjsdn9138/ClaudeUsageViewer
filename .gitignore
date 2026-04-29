@@ -1,23 +1,11 @@
-# Xcode
-build/
-DerivedData/
-*.xcuserstate
-xcuserdata/
-*.xcworkspace/xcuserdata/
-*.xcodeproj/xcuserdata/
-*.xccheckout
-*.xcscmblueprint
+# Build output
+bin/
+obj/
 
-# Swift Package Manager
-Packages/
-
-# Build products
-*.app
-*.ipa
-*.dSYM
+# Visual Studio / VS Code
+*.user
+.vs/
+*.suo
 
 # macOS
 *.DS_Store
-
-# Distribution
-ClaudeUsageViewer/
